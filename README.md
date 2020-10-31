@@ -52,7 +52,7 @@ $ git clone https://github.com/jeffessongomes/twitter-clone
 - index.html
 ```
 
-> ⚠️ O servidor iniciará na porta:3000 - Acesse <http://localhost:3000>
+> ⚠️ O site abrirá no seu navegador
 
 ### :boy: **Autor**
 
