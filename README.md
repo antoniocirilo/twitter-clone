@@ -26,7 +26,7 @@ O site foi criado durante o curso bonus do **GoStack**, oferecido pela [Rocketse
 
 ---
 
-## :camera_flash: Demonstração
+### :camera_flash: Demonstração
 
 <p align="center">
   <img alt="Twitter" src="./.github/assets/twitter.png">
