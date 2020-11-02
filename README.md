@@ -25,6 +25,15 @@ O projeto consiste em um clone da página do Twitter e foi feito para praticar e
 O site foi criado durante o curso bonus do **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
 ---
+
+## :camera_flash: Demonstração
+
+<p align="center">
+  <img alt="Twitter" src="./.github/assets/twitter.png">
+</p>
+
+---
+
 ### :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
